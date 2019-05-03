@@ -1,0 +1,11 @@
+# Site wide config:
+
+title: "Problem Solving: Exploring Paths Less Traveled"
+description: "by Richard M. Grassl and Tabitha T. Y. Mingus"
+
+footer: "&#169; Copyright 2019 Oscar Levin"
+
+sass:
+  style: compressed
+
+# theme: jekyll-theme-time-machine
